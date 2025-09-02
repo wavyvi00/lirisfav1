@@ -62,15 +62,15 @@ h1, h2, h3, h4, p {
     background-size: cover;
 }
 
-#gift-img-inlove:hover {
+#gift-img-inlove:active {
     background-image: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lyM2w1djRiYmJiMW9pMWFlMzI5YXp4MXZjc2UwMnM0ZDF2N2o0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kg5Q7JSJiV0XgrJVRc/giphy.gif");
 }
 
-#gift-img-melt:hover {
+#gift-img-melt:active {
     background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemM5NWtkMnFvcm9tbWN2Nm1vazhrN2Nka2VodW03aXVmOWZpZDRodiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y1XP7XPpNVwi7x5i45/giphy.gif");
 }
 
-#gift-img-beautiful:hover {
+#gift-img-beautiful:active {
     background-image: url("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxqbTVxZHMyb3Znc3ppbzdkcXpkNHcxbWYwc2NpczRraDl1YmFncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/it6W8D4FfvaPC/giphy.gif");
     background-size: cover;
     background-repeat: no-repeat;
@@ -78,11 +78,11 @@ h1, h2, h3, h4, p {
     margin: 0 auto;
 }
 
-#gift-img-you:hover {
+#gift-img-you:active {
     background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ptOTljd3hwb3Z4cTZsZjM2MnB0MHNzbzF5Njl6c3F3azZwejFtaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGctUP1Z50BNlEpa/giphy.gif");
 }
 
-#gift-img-cheers:hover {
+#gift-img-cheers:active {
     background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmoxZ3B2aW52azUxN2xmY2JodXB0bHd6cmxnanY2bDZ2MGMwZjFtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lTQF0ODLLjhza/giphy.gif");
 }
 
